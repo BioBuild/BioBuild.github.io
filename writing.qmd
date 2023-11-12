@@ -12,11 +12,11 @@ I've contributed to a number of academic papers and content on other sites which
 - Barbosa, I.,..., Wengert S.[6],...,Galli, G. G.[21] et al.; [Cancer lineage‐specific regulation of YAP responsive elements revealed through large‐scale functional
 epigenomic screens](https://www.nature.com/articles/s41467-023-39527-w); Nature Communications (2023) .
 
-- Neiburga K. D., Vilne B.* ,..., Wengert S. [7],..., Schunkert H. [20], von Scheidt M. [21] et al.; [Vascular Tissue Specific miRNA Profiles Reveal Novel Correlations with Risk Factors in Coronary Artery Disease](https://doi.org/10.3390/biom11111683); Biomolecules (2021).
+- Neiburga K. D., Vilne B. ,..., Wengert S. [7],..., Schunkert H. [20], von Scheidt M. [21] et al.; [Vascular Tissue Specific miRNA Profiles Reveal Novel Correlations with Risk Factors in Coronary Artery Disease](https://doi.org/10.3390/biom11111683); Biomolecules (2021).
 
 - Lopes R., Sprouffske K.,...,Wengert S.[7],... Galli, G. G.[28] et al.; [Systematic dissection of transcriptional regulatory networks by genome‐scale and single‐cell CRISPR screens](https://www.science.org/doi/10.1126/sciadv.abf5733?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed); Science Advances (2021).
     
-- Bohaumilitzky L., Huber A. K., Stork E. M., Wengert S., Woelfl F., Boehm H.*.; [A Trickster in Disguise: Hyaluronan’s Ambivalent Roles in the Matrix](http://journal.frontiersin.org/article/10.3389/fonc.2017.00242/abstract); Frontiers in Oncology (2017).
+- Bohaumilitzky L., Huber A. K., Stork E. M., Wengert S., Woelfl F., Boehm H..; [A Trickster in Disguise: Hyaluronan’s Ambivalent Roles in the Matrix](http://journal.frontiersin.org/article/10.3389/fonc.2017.00242/abstract); Frontiers in Oncology (2017).
 
 - [master thesis](https://drive.google.com/file/d/1cHw6MNjnffBXGtabw1soqIEisNMXNjjd/view?usp=sharing)
 
