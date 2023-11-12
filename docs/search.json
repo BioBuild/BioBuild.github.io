@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Hello World\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 12, 2023\n\n\nSimon Wengert\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simon Wengert",
+    "section": "",
+    "text": "Hi there, I’m Simon. Thanks for coming along :)\nabout me: I am a molecular biologist and a data scientist based in Munich, Germany. I am driven by discovery first and excitement second which means that I still enjoy solving puzzles but what ultimately motivates me is the direction of the work.\nIn my PhD research I am studying the the effects of mitochondrial DNA mutations across healthy human tissues in ageing and in psychiatric disease. More generally put, my scientific interests lie in how gene regulatory effects are mediated over time and how we can find the cellular states and molecular correlates underlying biological phenotypes. To learn about more this, I am using a combination of large statistical genetics and single–cell & spatial multi–omics approaches with the objective to inform experimental validation. In these endeavours I am greatly supported by my PhD advisor and mentor Dr. Na Cai at Helmholtz Pioneer Campus, my co–advisor Dr. Matthias Heinig at the Institute of Computational Biology, and more recently by our close collaborator Dr. Paolo Casale also based at Helmholtz Pioneer Campus. I am a greatful member and recepient of the graduate program provided by the Munich School for Data Science (MUDS) and the Add-on Fellowships for Interdisciplinary Life Science awarded by the Joachim Herz foundation.\nBefore starting my current position, I studied Molecular Biotechnology in Munich and Heidelberg where I did my master thesis on deep learning approaches for single–cell data integration with Prof. Oliver Stegle at the German Cancer Research Center and pursued multiple experimental and computatinal research internships in four different countries both in academia and the private sector. I also hold an additional professional degree as a laboratory assistant in the field of chemistry.\nOutside of work, I like to spend time hiking the outdoors, singing in choirs, and I admit to absolutely obsess about books and espresso. I also think a lot about the societal implications of science and technology and how the political discourse can be based on empirical findings. Along those lines, I co–founded and led the local branch of the climate activist group scientists for future in Heidelberg, while I was still based there."
+  },
+  {
+    "objectID": "index.html#tiny-cv-tldr",
+    "href": "index.html#tiny-cv-tldr",
+    "title": "Simon Wengert",
+    "section": "tiny CV (tldr)",
+    "text": "tiny CV (tldr)\n\nsince 2020: PhD studies in statistical genetics and single–cell & spatial multi-omics at Helmholtz Pioneer Campus in Munich\n2016 - 2020: M.Sc. Molecular Biotechnology at Heidelberg University\n2013 - 2016: B.Sc. Molecular Biotechnology at Technical University of Munich\n2011 - 2013: higher vocational school in Landshut, Germany\n2008 - 2011: voccational trainig as a lab technician in Freising, Germany"
+  },
+  {
+    "objectID": "index.html#full-cv",
+    "href": "index.html#full-cv",
+    "title": "Simon Wengert",
+    "section": "full CV",
+    "text": "full CV\n\nmy full CV can be found here: link"
+  },
+  {
+    "objectID": "index.html#posts",
+    "href": "index.html#posts",
+    "title": "Simon Wengert",
+    "section": "posts",
+    "text": "posts"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "email: simon [dot] wengert [at] helmholtz-munich [dot] de\ngoogle scholar: link\ngithub: BioBuild\ntwitter: @SimonWengert\nlinkedin: link"
+  },
+  {
+    "objectID": "dev_notes/notes.html",
+    "href": "dev_notes/notes.html",
+    "title": "Simon Wengert",
+    "section": "",
+    "text": "themes I liked"
+  },
+  {
+    "objectID": "dev_notes/notes.html#annotated-recommendations",
+    "href": "dev_notes/notes.html#annotated-recommendations",
+    "title": "Simon Wengert",
+    "section": "annotated recommendations",
+    "text": "annotated recommendations\nIf you …this is a very short list of books and papers I would recommend myself reading (or watching) if I were to start over again. x\nIf you start out in the… ++ some thins I found generally helpful.\nrecommending only things which are useful\n - Tim Burns psychiatry very short introductions - Bioinformatics Data Skills vince buffalo - molecular quatitative trait loci"
+  },
+  {
+    "objectID": "posts/2023_11_12_hello_world/index.html",
+    "href": "posts/2023_11_12_hello_world/index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "Hello, this is indeed my very first post on this blog. I plan to write more about exciting science and adventures every now and then. Stay tuned!"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "writing",
+    "section": "",
+    "text": "I’ve contributed to a number of academic papers and content on other sites which you can find on this page."
+  },
+  {
+    "objectID": "writing.html#academic-publications",
+    "href": "writing.html#academic-publications",
+    "title": "writing",
+    "section": "academic publications",
+    "text": "academic publications\n\nBarbosa, I.,…, Wengert S.[6],…,Galli, G. G.[21] et al.; Cancer lineage‐specific regulation of YAP responsive elements revealed through large‐scale functional epigenomic screens; Nature Communications (2023) .\nNeiburga K. D., Vilne B.* ,…, Wengert S. [7],…, Schunkert H. [20], von Scheidt M. [21] et al.; Vascular Tissue Specific miRNA Profiles Reveal Novel Correlations with Risk Factors in Coronary Artery Disease; Biomolecules (2021).\nLopes R., Sprouffske K.,…,Wengert S.[7],… Galli, G. G.[28] et al.; Systematic dissection of transcriptional regulatory networks by genome‐scale and single‐cell CRISPR screens; Science Advances (2021).\nBohaumilitzky L., Huber A. K., Stork E. M., Wengert S., Woelfl F., Boehm H.*.; A Trickster in Disguise: Hyaluronan’s Ambivalent Roles in the Matrix; Frontiers in Oncology (2017).\nmaster thesis"
+  },
+  {
+    "objectID": "writing.html#guides",
+    "href": "writing.html#guides",
+    "title": "writing",
+    "section": "guides",
+    "text": "guides\n\na hitchhiker’s guide to data science for molecular biology.\nsome general considerations on how to choose a PhD."
+  }
+]

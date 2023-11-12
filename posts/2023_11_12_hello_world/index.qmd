@@ -1,0 +1,11 @@
+---
+title: "Hello World"
+author: "Simon Wengert"
+date: "2023-11-12"
+categories: [news]
+---
+
+Hello, this is indeed my very first post on this blog. I plan to write more about exciting science and adventures every now and then. Stay tuned!
+
+
+![](herzogstand_landscape.jpg)

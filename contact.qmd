@@ -1,0 +1,16 @@
+---
+title: "contact"
+image: images/Chimborazo.jpg
+about:
+    template: marquee
+---
+
+email: simon [dot] wengert [at] helmholtz-munich [dot] de
+
+google scholar: [link](https://scholar.google.com/citations?user=vU-VXToAAAAJ&hl=en)
+
+github: [BioBuild](https://github.com/BioBuild)
+
+twitter: [@SimonWengert](https://twitter.com/SimonWengert)
+
+linkedin: [link](https://www.linkedin.com/in/simon-wengert-92b6b4138/)

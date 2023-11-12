@@ -1,0 +1,37 @@
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+![](images/profile.jpg){width=35% fig-align="center"}
+
+Hi there, I'm Simon. Thanks for coming along :)
+
+**about me:** I am a molecular biologist and a data scientist based in Munich, Germany. I am driven by discovery first and excitement second which means that I still enjoy solving puzzles but what ultimately motivates me is the direction of the work. 
+
+In my **PhD research** I am studying the the effects of mitochondrial DNA mutations across healthy human tissues in ageing and in psychiatric disease. More generally put, my **scientific interests** lie in how gene regulatory effects are mediated over time and how we can find the cellular states and molecular correlates underlying biological phenotypes. To learn about more this, I am using a combination of large statistical genetics and single--cell & spatial multi--omics approaches with the objective to inform experimental validation. In these endeavours I am **greatly supported** by my PhD advisor and mentor [Dr. Na Cai](https://sites.google.com/view/nacailab) at [Helmholtz Pioneer Campus](https://www.pioneercampus.org/), my co--advisor [Dr. Matthias Heinig](https://www.helmholtz-munich.de/en/research-group-lab-40-2) at the [Institute of Computational Biology](https://www.helmholtz-munich.de/en/icb), and more recently by our close collaborator [Dr. Paolo Casale](https://www.pioneercampus.org/themenmenue-links/about-us0/principal-investigators/francesco-paolo-casale/index.html) also based at Helmholtz Pioneer Campus. I am a greatful member and recepient of the graduate program provided by the [Munich School for Data Science (MUDS)](https://www.mu-ds.de/) and the [Add-on Fellowships for Interdisciplinary Life Science](https://www.joachim-herz-stiftung.de/forschen/nachwuchsfoerderung/add-on-fellowship-naturwissenschaften) awarded by the Joachim Herz foundation.
+
+**Before starting my current position**, I studied Molecular Biotechnology in Munich and Heidelberg where I did my master thesis on deep learning approaches for single--cell data integration with [Prof. Oliver Stegle](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/) at the German Cancer Research Center and pursued multiple experimental and computatinal research internships in four different countries both in academia and the private sector. I also hold an additional professional degree as a laboratory assistant in the field of chemistry.
+
+**Outside of work**, I like to spend time hiking the outdoors, singing in choirs, and I admit to absolutely obsess about books and espresso. I also think a lot about the societal implications of science and technology and how the political discourse can be based on empirical findings. Along those lines, I co--founded and led the local branch of the climate activist group [scientists for future](https://heidelberg.scientists4future.org/) in Heidelberg, while I was still based there. 
+
+
+## tiny CV (tldr)
+
+- **since 2020:** PhD studies in statistical genetics and single--cell & spatial multi-omics at Helmholtz Pioneer Campus in Munich 
+- **2016 - 2020:** M.Sc. Molecular Biotechnology at Heidelberg University
+- **2013 - 2016:** B.Sc. Molecular Biotechnology at Technical University of Munich
+- **2011 - 2013:** higher vocational school in Landshut, Germany
+- **2008 - 2011:** voccational trainig as a lab technician in Freising, Germany
+
+## full CV
+
+- my full CV can be found here: [link](https://drive.google.com/file/d/1eItQjyv3cZVljFl4IWNbdcKZKhcIUUaS/view?usp=sharing)
+
+## posts

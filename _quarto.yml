@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Simon Wengert"
+  navbar:
+    right:
+      - blog.qmd
+      - writing.qmd
+      - contact.qmd
+      - icon: github
+        href: https://github.com/BioBuild
+      - icon: twitter
+        href: https://twitter.com/SimonWengert
+      - icon: linkedin
+        href: https://www.linkedin.com/in/simon-wengert-92b6b4138/
+      
+format:
+  html:
+    theme: litera
+    css: styles.css
+
+
+
+
