@@ -5,7 +5,7 @@ about:
     template: marquee
 ---
 
-I've contributed to a number of academic papers and content on other sites which you can find on this page.
+I contributed to a number of academic papers and content on other sites which you can find on this page.
 
 ## academic publications
 
