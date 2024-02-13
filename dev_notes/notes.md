@@ -11,6 +11,8 @@ themes I liked
 
 
 ## options for adding
+- "talks" section. Or call it outreach or whatever. Like Na, Lara, etc. all of them have it. Or maybe even Klimalounge 
+oder so wie es Stefan Ramstorf hat. 
 - [master thesis](https://drive.google.com/file/d/1cHw6MNjnffBXGtabw1soqIEisNMXNjjd/view?usp=sharing)
 
 
