@@ -12,7 +12,9 @@ themes I liked
 
 ## options for adding
 - "talks" section. Or call it outreach or whatever. Like Na, Lara, etc. all of them have it. Or maybe even Klimalounge 
-oder so wie es Stefan Ramstorf hat. 
+oder so wie es Stefan Ramstorf hat. Presentations could be added as pdf using quarto extensions: 
+https://github.com/jmgirard/embedpdf?tab=readme-ov-file
+
 - [master thesis](https://drive.google.com/file/d/1cHw6MNjnffBXGtabw1soqIEisNMXNjjd/view?usp=sharing)
 
 
