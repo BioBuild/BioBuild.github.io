@@ -18,7 +18,7 @@ epigenomic screens](https://www.nature.com/articles/s41467-023-39527-w); Nature 
     
 - Bohaumilitzky L., Huber A. K., Stork E. M., Wengert S., Woelfl F., Boehm H..; [A Trickster in Disguise: Hyaluronan’s Ambivalent Roles in the Matrix](http://journal.frontiersin.org/article/10.3389/fonc.2017.00242/abstract); Frontiers in Oncology (2017).
 
-- [master thesis](https://drive.google.com/file/d/1cHw6MNjnffBXGtabw1soqIEisNMXNjjd/view?usp=sharing)
+
 
 
 ## guides

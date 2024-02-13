@@ -6,7 +6,7 @@ website:
   title: "Simon Wengert"
   navbar:
     right:
-      - blog.qmd
+      - posts.qmd
       - writing.qmd
       - contact.qmd
       - icon: github
