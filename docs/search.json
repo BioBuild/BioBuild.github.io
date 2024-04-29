@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "posts",
     "section": "",
-    "text": "Hello World\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 12, 2023\n\n\nSimon Wengert\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 12, 2023\n\n\nSimon Wengert\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -53,7 +53,7 @@
     "href": "dev_notes/notes.html#options-for-adding",
     "title": "Simon Wengert",
     "section": "options for adding",
-    "text": "options for adding\n\nmaster thesis"
+    "text": "options for adding\n\n“talks” section. Or call it outreach or whatever. Like Na, Lara, etc. all of them have it. Or maybe even Klimalounge oder so wie es Stefan Ramstorf hat. Presentations could be added as pdf using quarto extensions: https://github.com/jmgirard/embedpdf?tab=readme-ov-file\nmaster thesis"
   },
   {
     "objectID": "dev_notes/notes.html#annotated-recommendations",
@@ -89,5 +89,12 @@
     "title": "writing",
     "section": "guides",
     "text": "guides\n\na hitchhiker’s guide to data science for molecular biology.\nsome general considerations on how to choose a PhD."
+  },
+  {
+    "objectID": "posts/2024_04_12_talk_announcement/index.html",
+    "href": "posts/2024_04_12_talk_announcement/index.html",
+    "title": "Upcoming talk at Biology of Genomes!",
+    "section": "",
+    "text": "I’m really excited that the conference committee at Biology of Genomes has selected our abstract for an oral presentaion (I binge watched their keynotes on youtube during my masters so this is kind of a big deal for me).\nI will present our work on mitochondrial heteroplasmy, which is just mitochondrial DNA (mtDNA) mutations. But since mtDNA is not diploid but occurs in multiple hundreds to thousands of copies per mitochondrion, DNA mutations often affect only a percentage of the mtDNA molecules and this is called heteroplasmy. Here’s a graphical illustration of it:\n\nIn my presentation at BOG 2024 I will talk about:\n\nthe need for a quantitative description of mtDNA heteroplasmy and its effects in humans\nwhy we need tissue specific information, which brings the challenge of quantifying heteroplasmy from RNAseq alignment data as a proxy for the genotype.\nour robust computational pipeline to extract high quality mtDNA heteroplasmies from RNAseq data.\nthe ability to quantify not only mtDNA mutations but also a specific type of mtRNA modifications form reproducible mismatch signatures from RNAseq.\nour thorough evaluation procedure using simulated data select appropriate statistical models to test for phenotype reltionships in such data.\nhow this pipeline yields a comprehensive description of the tissue specific effects of such apparent mtDNA heteroplasmies on donor age and mitochondrial gene expression.\n\nI hope our work will be useful for anyone interested in learning phenotypic relationships from RNAseq derived mtDNA heteroplasmy data or - more general - anyone interested in learning phehotype relationships from RNAseq cohorts.\nIf that sounds interesting to you please reach out and let’s meet. Of course, I’m also always curious to learn about the research you’re doing and to discuss future opportunities. So if you are attending BoG2024 please get in touch!"
   }
 ]
